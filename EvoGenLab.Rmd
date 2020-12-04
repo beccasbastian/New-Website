@@ -5,4 +5,6 @@ date: "12/3/2020"
 output: html_document
 ---
 
-Link to EvoGenomics course materials : https://beccasbastian.github.io/EvoGenomics-course/
+Link to EvoGenomics course materials repository : https://github.com/beccasbastian/EvoGenomics-course
+
+Link to NewWebsite repository: https://github.com/beccasbastian/New-Website
