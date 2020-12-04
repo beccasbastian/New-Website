@@ -1,0 +1,13 @@
+---
+Title: "Me, PhD and R"
+output: html_document
+---
+### "Me, PhD and R"
+
+Enthralled by the complexity of the brain and the implications of drugs, I wanted to understand the brain in depth, as well as to ascertain my passion for research, I decided to pursue my Master’s degree, soon after I had completed my Bachelor's degree. Having little to no research background, I started my Master's degree working in a lab that was primarily focused on developmental neuroscience. Walking into it all somewhat blindly, I was pleasantly surprised to find myself in love with what I was studying and working with. So much so it had piqued my interest greatly and had landed me in the Neuroscience and Behavior, PhD program at UMASS Amherst. 
+
+Finishing up my second year now, I have learnt a greater deal of neuroscience and scientific skills. Among those, this coding class with R has definitely added a new dimension to my scientific career as a trainee. Now, I'm ever more excited to apply some of the things I've learnt in this class to my own single-cell RNA sequencing data for the project I'm currently working on! 
+
+p.s: I work with cortical brain organoids!
+
+

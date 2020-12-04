@@ -1,0 +1,13 @@
+name: "my-website"
+navbar:
+  title: "Rebecca's Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+    - text: "EvoGenLab"
+      href: EvoGenLab.html
+output: 
+  html_document:
+    theme: flatly
